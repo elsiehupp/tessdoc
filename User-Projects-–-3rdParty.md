@@ -51,6 +51,7 @@
     * [tesseract-android-tools](https://code.google.com/p/tesseract-android-tools/): set of Android APIs (archived in Google Code Archive at 2013-01-28)
     * [Mobile OCR](https://code.google.com/p/mobileocr/): The goal of Mobile OCR is to create an application for the Android platform that will recognize text from an image taken by the phone's camera. The application will be fully accessible to low vision and blind users
     * [Across India](https://indic-ocr.github.io/acrossindia/): An app which lets users take pictures of sign boards in Indian Languages or English and transliterate it to the language that they can read.
+    * [FairScan](https://fairscan.org/): A simple and respectful Android app to scan documents to PDF.
 
   * _iOS_:
     * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
